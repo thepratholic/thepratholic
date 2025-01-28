@@ -15,6 +15,6 @@
 
 
 # GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=thepratholic&theme=blueberry&hide_border=true) &nbsp;&nbsp;&nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=thepratholic&theme=blueberry&hide_border=false) &nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thepratholic&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
