@@ -11,7 +11,9 @@
 ## 📈 Coding profiles stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/thepratholic?theme=dark&font=Montserrat)
-![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/card?username=thepratholic)
+![CodeChef Stats](https://raw.githubusercontent.com/thepratholic/thepratholic/main/stats/svgCodes/codechef_stats.svg
+)
+
 
 
 
