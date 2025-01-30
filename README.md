@@ -11,7 +11,7 @@
 ## 📈 Coding profiles stats
 
 <a href="https://leetcode.com/thepratholic">
-<img align="center" height="322" src="stats/leetcode_stats.svg" alt="thepratholic Leetcode Stats"/>
+<img align="center" height="322" src="stats/thepratholic_lc.svg" alt="thepratholic Leetcode Stats"/>
 </a>
 
 
