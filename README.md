@@ -14,9 +14,9 @@
 <img align="center" height="322" src="stats/thepratholic_lc.svg" alt="thepratholic Leetcode Stats"/>
 </a>
 
-### 🍽️ CodeChef Stats  
-![CodeChef Stats](https://raw.githubusercontent.com/thepratholic/thepratholic/main/codechef_stats.svg)
-
+<a href="https://www.codechef.com/users/the_pratholic/">
+<img align="center" height="322" src="stats/codechef_stats.svg" alt="CodeChef Stats"/>
+</a>
 
 
 
