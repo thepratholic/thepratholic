@@ -9,7 +9,7 @@ declare -A image_api_endpoints=(
     ["github_stats.svg"]="https://github-readme-stats.vercel.app/api?username=thepratholic&show_icons=true&hide=contribs&theme=github_dark&border_color=30363d"
     ["top_langs.svg"]="https://github-readme-stats.vercel.app/api/top-langs/?username=thepratholic&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&size_weight=0.5&count_weight=0.5&hide=css"
     ["leetcode_stats.svg"]="https://leetcard.jacoblin.cool/thepratholic?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/thepratholic/5e715e284c89cace8f5fa09f7fb930b8/raw/164541033f8ae34e5ef6789c0d1ee627ece80f01/leetcode_stats_card.css"
-    ["codechef_stats.svg"]="https://raw.githubusercontent.com/thepratholic/thepratholic/main/codechef_stats.py"
+    ["codechef_stats.svg"]="https://raw.githubusercontent.com/thepratholic/thepratholic/main/codechef_stats.svg"
 )
 
 # Function to download an image
