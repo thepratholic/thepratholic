@@ -10,10 +10,9 @@
 
 ## 📈 Coding profiles stats
 
-![LeetCode Stats](https://lcgraph.com/api?username=thepratholic&theme=dark)  
-![CodeChef Stats](https://raw.githubusercontent.com/thepratholic/thepratholic/main/stats/svgCodes/codechef_stats.svg
-)
-
+<a href="https://leetcode.com/thepratholic">
+<img align="center" height="322" src="stats/leetcode_stats.svg" alt="thepratholic Leetcode Stats"/>
+</a>
 
 
 
