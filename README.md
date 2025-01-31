@@ -13,7 +13,7 @@
 <a href="https://leetcode.com/thepratholic">
 <img align="center" height="322" src="stats/thepratholic_lc.svg" alt="thepratholic Leetcode Stats"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/thepratholic">
 <img align="center" height="322" src="stats/thepratholic_cf.svg" alt="thepratholic Codeforces Stats"/>
 </a>
