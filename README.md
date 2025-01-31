@@ -14,8 +14,8 @@
 <img align="center" height="322" src="stats/thepratholic_lc.svg" alt="thepratholic Leetcode Stats"/>
 </a>
 
-<a href="https://www.codechef.com/users/the_pratholic/">
-<img align="center" height="322" src="stats/codechef_stats.svg" alt="CodeChef Stats"/>
+<a href="https://codeforces.com/profile/thepratholic">
+<img align="center" height="322" src="stats/thepratholic_cf.svg" alt="thepratholic Codeforces Stats"/>
 </a>
 
 
