@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="stats/contribution_graph.svg" alt="GitHub Contribution Graph"/>
+      <img src="stats/thepratholic_contribution_graph.svg" alt="GitHub Contribution Graph"/>
     </td>
   </tr>
 </table>
