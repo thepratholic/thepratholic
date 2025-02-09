@@ -12,11 +12,6 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=thepratholic&bg_color=2e3440&hide_border=true&point=true&line=81a1c1&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff&line_width=2&since=2023-11-01">
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <img src="stats/thepratholic_contribution_graph.svg" alt="GitHub Contribution Graph"/>
-    </td>
-  </tr>
 </table>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepratholic&show_icons=true&theme=dark) &nbsp;&nbsp;
@@ -25,11 +20,11 @@
 ## 📈 Coding profiles stats
 
 <a href="https://leetcode.com/thepratholic">
-<img align="center" height="322" src="stats/thepratholic_lc.svg" alt="thepratholic Leetcode Stats"/>
+<img align="center" height="322" src="https://leetcard.jacoblin.cool/thepratholic?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/thepratholic/5e715e284c89cace8f5fa09f7fb930b8/raw/164541033f8ae34e5ef6789c0d1ee627ece80f01/leetcode_stats_card.css" alt="thepratholic Leetcode Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://codeforces.com/profile/thepratholic">
-<img align="center" height="322" src="stats/thepratholic_cf.svg" alt="thepratholic Codeforces Stats"/>
+<img align="center" height="322" src="https://codeforces-readme-stats.vercel.app/api/card?username=thepratholic&theme=github_dark&force_username=true&border_color=30363d" alt="thepratholic Codeforces Stats"/>
 </a>
 
 # 💻 Technologies worked with:
