@@ -3,8 +3,22 @@
 
 <h3>Always Open to new ideas, let's create something amazing together!</h3><be>
 
-
 # GitHub Stats:
+## 📊 Metrics
+
+<table>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=thepratholic&bg_color=2e3440&hide_border=true&point=true&line=81a1c1&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff&line_width=2&since=2023-11-01">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="stats/contribution_graph.svg" alt="GitHub Contribution Graph"/>
+    </td>
+  </tr>
+</table>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepratholic&show_icons=true&theme=dark) &nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thepratholic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -17,8 +31,6 @@
 <a href="https://codeforces.com/profile/thepratholic">
 <img align="center" height="322" src="stats/thepratholic_cf.svg" alt="thepratholic Codeforces Stats"/>
 </a>
-
-
 
 # 💻 Technologies worked with:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) &nbsp;
