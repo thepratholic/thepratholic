@@ -3,8 +3,7 @@
 
 <h3>Always Open to new ideas, let's create something amazing together!</h3><be>
 
-# GitHub Stats:
-## 📊 Metrics
+# 📊 GitHub Stats:
 
 <table>
   <tr>
