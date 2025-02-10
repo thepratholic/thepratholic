@@ -23,8 +23,7 @@
   </tr>
 </table>
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepratholic&show_icons=true&theme=dark) &nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thepratholic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
 
 ## 📈 Coding profiles stats
 
