@@ -28,7 +28,7 @@
 ## 📈 Coding profiles stats
 
 <a href="https://leetcode.com/thepratholic">
-<img align="center" height="322" src="https://leetcard.jacoblin.cool/thepratholic?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/thepratholic/5e715e284c89cace8f5fa09f7fb930b8/raw/164541033f8ae34e5ef6789c0d1ee627ece80f01/leetcode_stats_card.css" alt="thepratholic Leetcode Stats"/>
+<img align="center" height="322" src="https://leetcard.jacoblin.cool/thepratholic?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/164541033f8ae34e5ef6789c0d1ee627ece80f01/leetcode_stats_card.css"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/thepratholic">
