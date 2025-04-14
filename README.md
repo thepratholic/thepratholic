@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/thepratholic" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas+&weight=600&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Pratham+Chelaramani!;%3CCompetitive+Programmer%3E;%3E;%3CBackend+Developer%3E;%3CPassionate+about+Computer+Science%3E" alt="" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas+&weight=600&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Pratham+Chelaramani!;%3CCompetitive+Programmer%3E;%3CBackend+Developer%3E;%3CPassionate+about+Computer+Science%3E" alt="" />
   </a>
 
   
@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237292B6.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/thepratholic)
 [![LeetCode user thepratholic](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthepratholic&logo=leetcode&logoColor=yellow)](https://leetcode.com/thepratholic/)
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=thepratholic)](https://codeforces.com/profile/thepratholic)
-[![Codechef](https://cp-logo.vercel.app/codechef/thepratholic)](https://www.codechef.com/users/the_pratholic)
+[![Codechef](https://cp-logo.vercel.app/codechef/the_pratholic)](https://www.codechef.com/users/the_pratholic)
 
 </div>
 
