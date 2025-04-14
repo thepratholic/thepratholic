@@ -8,8 +8,11 @@
 [![Discord](https://img.shields.io/badge/Discord-%237292B6.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/thepratholic)
 [![LeetCode user thepratholic](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthepratholic&logo=leetcode&logoColor=yellow)](https://leetcode.com/thepratholic/)
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=thepratholic)](https://codeforces.com/profile/thepratholic)
-[![Codechef](https://cp-logo.vercel.app/codechef/thepratholic)](https://www.codechef.com/users/thepratholic)
+[![Codechef](https://cp-logo.vercel.app/codechef/thepratholic)](https://www.codechef.com/users/the_pratholic)
 
+</div>
+
+🚀 I'm a passionate programmer and an enthusiast of all things Computer Science, constantly exploring new technologies and working on projects that challenge me to grow.
 
 # 📊 GitHub Stats:
 
@@ -31,15 +34,14 @@
   </tr>
 </table>
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepratholic&show_icons=true&theme=dark) &nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thepratholic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
 
 ## 📈 Coding profiles stats
 
 <a href="https://leetcode.com/thepratholic">
-<img align="center" height="322" src="https://leetcard.jacoblin.cool/thepratholic?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/thepratholic/5e715e284c89cace8f5fa09f7fb930b8/raw/164541033f8ae34e5ef6789c0d1ee627ece80f01/leetcode_stats_card.css" alt="thepratholic Leetcode Stats"/>
+<img align="center" height="322" src="https://leetcard.jacoblin.cool/thepratholic?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/164541033f8ae34e5ef6789c0d1ee627ece80f01/leetcode_stats_card.css"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/thepratholic">
 <img align="center" height="322" src="https://codeforces-readme-stats.vercel.app/api/card?username=thepratholic&theme=github_dark&force_username=true&border_color=30363d" alt="thepratholic Codeforces Stats"/>
 </a>
