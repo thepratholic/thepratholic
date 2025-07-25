@@ -43,7 +43,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/thepratholic">
-<img align="center" height="350" src="https://codeforces-readme-stats.vercel.app/api/card?username=thepratholic&theme=github_dark&force_username=true&border_color=30363d" alt="thepratholic Codeforces Stats"/>
+<img align="center" height="370" src="https://codeforces-readme-stats.vercel.app/api/card?username=thepratholic&theme=github_dark&force_username=true&border_color=30363d" alt="thepratholic Codeforces Stats"/>
 </a>
 
 # 💻 Technologies worked with:
