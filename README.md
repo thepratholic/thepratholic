@@ -12,7 +12,7 @@
 
 </div>
 
-🚀 I'm a passionate programmer and an enthusiast of all things Computer Science, constantly exploring new technologies and working on projects that challenge me to grow.
+🚀 I'm a passionate programmer and an enthusiast of all things in Computer Science, constantly exploring new technologies and working on projects that challenge me to grow.
 
 # 📊 GitHub Stats:
 
