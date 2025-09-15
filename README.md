@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237292B6.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/thepratholic) &nbsp;&nbsp;&nbsp;
 [![LeetCode user thepratholic](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthepratholic&logo=leetcode&logoColor=yellow)](https://leetcode.com/thepratholic/) &nbsp;&nbsp;&nbsp;
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=thepratholic)](https://codeforces.com/profile/thepratholic) &nbsp;&nbsp;&nbsp;
-[![Codechef](https://codechef-readme-stats.vercel.app/api/badge?username=the_pratholic)](https://codechef.com/users/the_pratholic) &nbsp;&nbsp;&nbsp;
+<!-- [![Codechef](https://codechef-readme-stats.vercel.app/api/badge?username=the_pratholic)](https://codechef.com/users/the_pratholic) &nbsp;&nbsp;&nbsp; -->
 
 </div>
 
