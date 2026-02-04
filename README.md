@@ -1,12 +1,12 @@
 <div align="center">
-  <a href="https://github.com/thepratholic" target="_blank">
+  <a href="https://github.com/pratholic" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Consolas+&weight=600&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Pratham+Chelaramani!;%3CCompetitive+Programmer%3E;%3CBackend+Developer%3E;%3CPassionate+about+Computer+Science%3E" alt="" />
   </a>
 
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thepratholic) &nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratholic) &nbsp;&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-%237292B6.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/thepratholic) &nbsp;&nbsp;&nbsp;
-[![LeetCode user thepratholic](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthepratholic&logo=leetcode&logoColor=yellow)](https://leetcode.com/thepratholic/) &nbsp;&nbsp;&nbsp;
+[![LeetCode user pratholic](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthepratholic&logo=leetcode&logoColor=yellow)](https://leetcode.com/pratholic/) &nbsp;&nbsp;&nbsp;
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=thepratholic)](https://codeforces.com/profile/thepratholic) &nbsp;&nbsp;&nbsp;
 <!-- [![Codechef](https://codechef-readme-stats.vercel.app/api/badge?username=the_pratholic)](https://codechef.com/users/the_pratholic) &nbsp;&nbsp;&nbsp; -->
 
@@ -38,7 +38,7 @@
 
 ## 📈 Coding profiles stats
 
-<a href="https://leetcode.com/thepratholic">
+<a href="https://leetcode.com/pratholic">
 <img align="center" height="290" src="https://leetcard.jacoblin.cool/thepratholic?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/164541033f8ae34e5ef6789c0d1ee627ece80f01/leetcode_stats_card.css"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,7 +47,6 @@
 </a>
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) &nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) &nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) &nbsp;&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) &nbsp;&nbsp;
