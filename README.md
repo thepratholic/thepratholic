@@ -20,17 +20,7 @@
     <td colspan="2">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=thepratholic&bg_color=2e3440&hide_border=true&point=true&line=81a1c1&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff&line_width=2&since=2023-11-01">
     </td>
-  </tr>
-
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=thepratholic&show_icons=true&theme=dark">
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepratholic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-    </td>
-  </tr>
+  </tr> 
 </table>
 
 
