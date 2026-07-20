@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thepratholic) &nbsp;&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-%237292B6.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/thepratholic) &nbsp;&nbsp;&nbsp;
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=thepratholic)](https://codeforces.com/profile/thepratholic) &nbsp;&nbsp;&nbsp;
-
+[![Leetcode](https://leetcode-readme-stats.vercel.app/api/badge?username=thepratholic)](https://leetcode.com/u/thepratholic) &nbsp;&nbsp;&nbsp;
 
 </div>
 
